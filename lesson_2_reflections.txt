@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+Because without creating an instance of git in the folder it won't be a repository, it would be just a folder without the .git file
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It offers an intermediate step to actually know what logical change we are about to make a commit of it
