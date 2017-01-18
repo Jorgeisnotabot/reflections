@@ -4,3 +4,5 @@ How is the staging area different from the working directory and the repository?
 It offers an intermediate step to actually know what logical change we are about to make a commit of it
 How can you use the staging area to make sure you have one commit per logical change?
 by using the command git diff -u --staged you can actually see which files have been changed by comparing them to the ones from the last commit, so by cheching the differences you can realize how many logical changes you have made and have a better visual control of this situation
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+when you are making an experimental feature it can provides you a new environment to work creating a new workline for that specific environment
