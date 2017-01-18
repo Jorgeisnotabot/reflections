@@ -12,3 +12,4 @@ How might using version control make you more confident to make changes that cou
 I guess by breaking something is how you really improve something so this is an amazing approach to programming and product development because it gives you the freedom to explore and experiment with new features that can actually make a big change
 Now that you have your workspace set up, what do you want to try using Git for?
 I want to use it for collaboration in projects also for standarization because it is a great way to keep control of a project
+
